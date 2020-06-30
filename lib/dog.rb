@@ -1,7 +1,7 @@
 class Dog
-  # #name method
+  # #name= method
   def name
     @name = name
   end
-  # #name= method
+  # #name method
 end
