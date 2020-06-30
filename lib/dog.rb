@@ -9,4 +9,11 @@ class Dog
   end
   
   # #breed= method to set the variable @breed
+  def breed=(breed)
+    @breed = breed
+  end
+  # #breed method to get @breed
+  def breed
+    @breed
+  end
 end
