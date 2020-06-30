@@ -1,5 +1,5 @@
 class Dog
   # #name method
-  def 
+  def initialize(name)
   # #name= method
 end
