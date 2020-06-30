@@ -5,4 +5,5 @@ class Dog
   end
   # #name method
   def name
+    
 end
