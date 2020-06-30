@@ -8,5 +8,5 @@ class Person
   end
   
   def name=(name)
-    @name = name
+    @name = new_name
 end
