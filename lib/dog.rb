@@ -6,4 +6,5 @@ class Dog
   # #name method to get @name
   def name
     @name
+  end
 end
