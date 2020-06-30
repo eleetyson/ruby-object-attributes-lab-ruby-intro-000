@@ -7,4 +7,6 @@ class Dog
   def name
     @name
   end
+  
+  # #breed= method to set the variable @breed
 end
